@@ -9,6 +9,10 @@ public class DemooApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemooApplication.class, args);
         System.out.println("fsdfsdfsdfsdf");
+        System.out.println("fsdfsdfsdfsdf");
+
+
+        System.out.println("fsdfsdfsdfsdf");
     }
 
 }
