@@ -5,6 +5,10 @@ public class ConUserService {
     public static void main(String[] args){
         int[] numbers = {12,312,4,5};
         int[] numbers2 = {434,3523,24523453};
+
+        for(int i; i < number.length(); i++){
+            System.out.printl(numbers[i])
+        }
     }
 
 }
