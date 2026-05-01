@@ -18,4 +18,8 @@ public class ConUserService {
         System.out.println("Hello");
     }
 
+    static void makingNotes(){
+        System.out.println("Hello");
+    }
+
 }
