@@ -6,8 +6,8 @@ public class ConUserService {
         int[] numbers = {12,312,4,5};
         int[] numbers2 = {434,3523,24523453};
 
-        for(int i; i < number.length(); i++){
-            System.out.printl(numbers[i])
+        for(int i = 0; i < numbers.length; i++){
+            System.out.println(numbers[i]);
         }
     }
 
