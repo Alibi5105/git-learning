@@ -10,8 +10,6 @@ public class ConUserService {
             System.out.println(numbers[i]);
         }
 
-        for();
-
         System.out.println("Develop branches");
         System.out.println("Adding new Features to Develop");
     }
